@@ -1,0 +1,561 @@
+﻿Role;Seniority;Specialization;Skill;Proficiency
+Functional/System Analyst;Senior;Functional/System Analysis;Atlassian Confluence;3
+Functional/System Analyst;Senior;Functional/System Analysis;Atlassian Jira;3
+Functional/System Analyst;Senior;Functional/System Analysis;Business Process Modeling Notation (BPMN);3
+Functional/System Analyst;Senior;Functional/System Analysis;REST API;3
+Functional/System Analyst;Senior;Functional/System Analysis;SQL;3
+Functional/System Analyst;Senior;Functional/System Analysis;UML;3
+Software Developer;Senior;Java;Apache Kafka;3
+Software Developer;Senior;Java;Apache Maven;3
+Software Developer;Senior;Java;Docker;3
+Software Developer;Senior;Java;Git;3
+Software Developer;Senior;Java;Java;4
+Software Developer;Senior;Java;Java 8 - 17;3
+Software Developer;Senior;Java;PostgreSQL;3
+Software Developer;Senior;Java;Spring Boot;3
+Software Developer;Senior;Java;Spring Data;3
+Software Developer;Senior;Java;Spring Framework;3
+Test Engineer;Regular;QA Manual;Atlassian Confluence;3
+Test Engineer;Regular;QA Manual;Atlassian Jira;3
+Test Engineer;Regular;QA Manual;Manual Testing;4
+Test Engineer;Regular;QA Manual;Postman;3
+Test Engineer;Regular;QA Manual;SQL;3
+Software Developer;Regular;Java;Apache Kafka;3
+Software Developer;Regular;Java;Apache Maven;3
+Software Developer;Regular;Java;Docker;3
+Software Developer;Regular;Java;Git;3
+Software Developer;Regular;Java;Hibernate;3
+Software Developer;Regular;Java;Java;3
+Software Developer;Regular;Java;Java 8 - 17;3
+Software Developer;Regular;Java;JUnit;3
+Software Developer;Regular;Java;PostgreSQL;3
+Software Developer;Regular;Java;Spring Boot;3
+Software Developer;Regular;Java;Spring Data;3
+Software Developer;Regular;Java;Spring Framework;3
+Software Developer;Regular;Java;SQL;3
+Test Engineer;Senior;QA Manual;Atlassian Confluence;3
+Test Engineer;Senior;QA Manual;Atlassian Jira;3
+Test Engineer;Senior;QA Manual;Elastic Kibana;3
+Test Engineer;Senior;QA Manual;Functional Testing;5
+Test Engineer;Senior;QA Manual;Integration Testing;3
+Test Engineer;Senior;QA Manual;Manual Testing;4
+Test Engineer;Senior;QA Manual;PostgreSQL;3
+Test Engineer;Senior;QA Manual;Postman;3
+Test Engineer;Senior;QA Manual;Regression Testing;4
+Test Engineer;Senior;QA Manual;SQL;3
+Test Engineer;Senior;QA Manual;Test Cases;4
+Software Developer;Senior;JavaScript (Angular, React etc.);CSS3;4
+Software Developer;Senior;JavaScript (Angular, React etc.);Git;3
+Software Developer;Senior;JavaScript (Angular, React etc.);JavaScript;5
+Software Developer;Senior;JavaScript (Angular, React etc.);Jest;3
+Software Developer;Senior;JavaScript (Angular, React etc.);React;4
+Software Developer;Senior;JavaScript (Angular, React etc.);Redux;3
+Software Developer;Senior;JavaScript (Angular, React etc.);TypeScript;3
+Software Developer;Senior;JavaScript (Angular, React etc.);Webpack;3
+Functional/System Analyst;Regular;Functional/System Analysis;Atlassian Confluence;3
+Functional/System Analyst;Regular;Functional/System Analysis;Atlassian Jira;3
+Functional/System Analyst;Regular;Functional/System Analysis;Business Process Modeling Notation (BPMN);3
+Functional/System Analyst;Regular;Functional/System Analysis;SQL;3
+Functional/System Analyst;Regular;Functional/System Analysis;UML;3
+Software Developer;Senior;C#/VB.NET;.NET Core;3
+Software Developer;Senior;C#/VB.NET;C#/.NET;3
+Software Developer;Senior;C#/VB.NET;Entity Framework (EF Core);3
+Software Developer;Senior;C#/VB.NET;Entity Framework (EF Core);4
+Software Developer;Senior;C#/VB.NET;Git;4
+Software Developer;Senior;C#/VB.NET;Microsoft ASP.NET;4
+Software Developer;Senior;C#/VB.NET;Microsoft SQL Server;3
+Software Developer;Senior;C#/VB.NET;PostgreSQL;3
+Software Developer;Senior;C#/VB.NET;SQL;4
+Software Developer;Regular;JavaScript (Angular, React etc.);CSS3;4
+Software Developer;Regular;JavaScript (Angular, React etc.);Git;3
+Software Developer;Regular;JavaScript (Angular, React etc.);JavaScript;4
+Software Developer;Regular;JavaScript (Angular, React etc.);Jest;3
+Software Developer;Regular;JavaScript (Angular, React etc.);React;4
+Software Developer;Regular;JavaScript (Angular, React etc.);Redux;3
+Software Developer;Regular;JavaScript (Angular, React etc.);TypeScript;3
+Functional/System Analyst;Lead;Functional/System Analysis;Atlassian Confluence;4
+Functional/System Analyst;Lead;Functional/System Analysis;Atlassian Jira;3
+Functional/System Analyst;Lead;Functional/System Analysis;Business Process Modeling Notation (BPMN);3
+Functional/System Analyst;Lead;Functional/System Analysis;Business Process Modeling Notation (BPMN);4
+Functional/System Analyst;Lead;Functional/System Analysis;JSON;3
+Functional/System Analyst;Lead;Functional/System Analysis;Requirements Analysis;4
+Functional/System Analyst;Lead;Functional/System Analysis;REST API;3
+Functional/System Analyst;Lead;Functional/System Analysis;SQL;4
+Functional/System Analyst;Lead;Functional/System Analysis;UML;4
+Software Developer;Lead;Java;Apache Kafka;3
+Software Developer;Lead;Java;Apache Maven;4
+Software Developer;Lead;Java;Atlassian Confluence;3
+Software Developer;Lead;Java;Atlassian Jira;3
+Software Developer;Lead;Java;Docker;3
+Software Developer;Lead;Java;Git;4
+Software Developer;Lead;Java;GitLab;3
+Software Developer;Lead;Java;Java;5
+Software Developer;Lead;Java;JavaScript;3
+Software Developer;Lead;Java;JUnit;4
+Software Developer;Lead;Java;PostgreSQL;3
+Software Developer;Lead;Java;REST;3
+Software Developer;Lead;Java;REST;5
+Software Developer;Lead;Java;Spring Boot;4
+Software Developer;Lead;Java;Spring Framework;4
+Software Developer;Lead;Java;SQL;3
+Test Engineer;Senior;QA Automation;Git;3
+Test Engineer;Senior;QA Automation;Java;3
+Test Engineer;Senior;QA Automation;PostgreSQL;3
+Test Engineer;Senior;QA Automation;Postman;3
+Test Engineer;Senior;QA Automation;Selenium;3
+Test Engineer;Senior;QA Automation;SQL;3
+Project Manager;Senior;Engineering Project Management;Project Management;3
+Test Engineer;Lead;QA Manual;Atlassian Confluence;3
+Test Engineer;Lead;QA Manual;Atlassian Jira;3
+Test Engineer;Lead;QA Manual;Atlassian Jira;4
+Test Engineer;Lead;QA Manual;Functional Testing;5
+Test Engineer;Lead;QA Manual;Manual Testing;5
+Test Engineer;Lead;QA Manual;PostgreSQL;3
+Test Engineer;Lead;QA Manual;Postman;3
+Test Engineer;Lead;QA Manual;Regression Testing;5
+Test Engineer;Lead;QA Manual;SQL;3
+Test Engineer;Lead;QA Manual;Test design;4
+Application Engineer;Senior;DevOps;Ansible;4
+Application Engineer;Senior;DevOps;Docker;3
+Application Engineer;Senior;DevOps;Grafana;3
+Application Engineer;Senior;DevOps;Jenkins;3
+Application Engineer;Senior;DevOps;Jenkins;4
+Application Engineer;Senior;DevOps;Kubernetes;3
+Application Engineer;Senior;DevOps;Kubernetes;4
+Application Engineer;Senior;DevOps;Linux;4
+Application Engineer;Senior;DevOps;Nginx;3
+Application Engineer;Senior;DevOps;PostgreSQL;3
+Application Engineer;Senior;DevOps;Prometheus;3
+Test Engineer;Regular;QA Automation;Atlassian Jira;3
+Test Engineer;Regular;QA Automation;Git;3
+Test Engineer;Regular;QA Automation;Java;3
+Test Engineer;Regular;QA Automation;Selenium;3
+Test Engineer;Regular;QA Automation;SQL;3
+Software Developer;Lead;JavaScript (Angular, React etc.);Angular;4
+Software Developer;Lead;JavaScript (Angular, React etc.);CSS3;5
+Software Developer;Lead;JavaScript (Angular, React etc.);Git;4
+Software Developer;Lead;JavaScript (Angular, React etc.);HTML;5
+Software Developer;Lead;JavaScript (Angular, React etc.);HTML5;5
+Software Developer;Lead;JavaScript (Angular, React etc.);JavaScript;5
+Software Developer;Lead;JavaScript (Angular, React etc.);Node.js;3
+Software Developer;Lead;JavaScript (Angular, React etc.);React;4
+Software Developer;Lead;JavaScript (Angular, React etc.);Redux;5
+Software Developer;Lead;JavaScript (Angular, React etc.);TypeScript;4
+Software Developer;Lead;JavaScript (Angular, React etc.);Webpack;4
+Software Developer;Senior;SQL (MySQL, T-SQL, Teradata etc.);Atlassian Jira;3
+Software Developer;Senior;SQL (MySQL, T-SQL, Teradata etc.);Git;3
+Software Developer;Senior;SQL (MySQL, T-SQL, Teradata etc.);Microsoft Transact-SQL;4
+Software Developer;Senior;SQL (MySQL, T-SQL, Teradata etc.);SQL;4
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Active Directory;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Atlassian Confluence;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Atlassian Jira;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Elastic Kibana;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Grafana;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Helpdesk;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Service Desk;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);SQL;3
+SL2 Technical Support Engineer;Regular;Technical Support (SL2);Zabbix;3
+Business Analyst;Regular;Business Analysis;Atlassian Confluence;3
+Business Analyst;Regular;Business Analysis;Atlassian Jira;3
+Team Lead;Senior;Java;Apache Kafka;3
+Team Lead;Senior;Java;Apache Maven;3
+Team Lead;Senior;Java;Docker;3
+Team Lead;Senior;Java;Git;3
+Team Lead;Senior;Java;Hibernate;3
+Team Lead;Senior;Java;Java;5
+Team Lead;Senior;Java;JavaScript;3
+Team Lead;Senior;Java;JUnit;3
+Team Lead;Senior;Java;JUnit;5
+Team Lead;Senior;Java;OpenShift;3
+Team Lead;Senior;Java;Oracle;3
+Team Lead;Senior;Java;PostgreSQL;3
+Team Lead;Senior;Java;RabbitMQ;3
+Team Lead;Senior;Java;REST;3
+Team Lead;Senior;Java;Spring Boot;3
+Team Lead;Senior;Java;Spring Data;3
+Team Lead;Senior;Java;Spring Framework;4
+Team Lead;Senior;Java;SQL;4
+Application Engineer;Regular;DevOps;Ansible;3
+Application Engineer;Regular;DevOps;Docker;3
+Application Engineer;Regular;DevOps;Git;3
+Application Engineer;Regular;DevOps;Grafana;3
+Application Engineer;Regular;DevOps;Linux;3
+Application Engineer;Regular;DevOps;Nginx;3
+Application Engineer;Regular;DevOps;Prometheus;3
+Business Analyst;Senior;Business Analysis;Atlassian Jira;3
+Business Analyst;Senior;Business Analysis;Business Process Modeling Notation (BPMN);3
+Designer;Senior;UI/UX Design;Adobe Illustrator;3
+Designer;Senior;UI/UX Design;Adobe Illustrator;4
+Designer;Senior;UI/UX Design;Adobe Photoshop;3
+Designer;Senior;UI/UX Design;Adobe Photoshop;4
+Designer;Senior;UI/UX Design;Adobe Photoshop;5
+Designer;Senior;UI/UX Design;Figma;4
+Designer;Senior;UI/UX Design;Figma;5
+Designer;Senior;UI/UX Design;UI/UX Design;3
+Designer;Senior;UI/UX Design;UX Design;3
+Designer;Senior;UI/UX Design;UX Design;4
+Designer;Senior;UI/UX Design;UX Design;5
+Designer;Senior;UI/UX Design;UX Research;3
+Designer;Senior;UI/UX Design;UX/UI;3
+Project Manager;Regular;Engineering Project Management;Atlassian Confluence;3
+Project Manager;Regular;Engineering Project Management;Atlassian Jira;3
+Software Developer;Regular;Android;Android;3
+Software Developer;Regular;Android;Coroutines;3
+Software Developer;Regular;Android;Dagger 2;3
+Software Developer;Regular;Android;Java;3
+Software Developer;Regular;Android;Kotlin;4
+Software Developer;Regular;Android;MVVM;3
+Software Developer;Regular;Android;Retrofit;3
+Software Developer;Regular;Android;Retrofit;5
+Software Developer;Regular;SQL (MySQL, T-SQL, Teradata etc.);Microsoft Transact-SQL;3
+Software Developer;Senior;SQL (PL/SQL - Oracle);Git;3
+Software Developer;Senior;SQL (PL/SQL - Oracle);Oracle;4
+Software Developer;Senior;SQL (PL/SQL - Oracle);PL/PLUS;3
+Software Developer;Senior;SQL (PL/SQL - Oracle);PL/SQL;3
+Software Developer;Senior;SQL (PL/SQL - Oracle);SQL;4
+Software/System Architect;Lead;Software/System Architecture;Apache Kafka;3
+Software/System Architect;Lead;Software/System Architecture;Java;4
+Software/System Architect;Lead;Software/System Architecture;Java;5
+Software/System Architect;Lead;Software/System Architecture;Microservices;3
+Software/System Architect;Lead;Software/System Architecture;Microservices;4
+Software/System Architect;Lead;Software/System Architecture;PostgreSQL;3
+Software/System Architect;Lead;Software/System Architecture;Spring Framework;4
+Software/System Architect;Lead;Software/System Architecture;UML;3
+Software/System Architect;Lead;Software/System Architecture;UML;4
+Software/System Architect;Lead;Software/System Architecture;Эксперт;5
+Software Developer;Senior;Android;Android;3
+Software Developer;Senior;Android;Android;4
+Software Developer;Senior;Android;Coroutines;3
+Software Developer;Senior;Android;Java;3
+Software Developer;Senior;Android;Kotlin;3
+Software Developer;Senior;Android;MVVM;3
+Software Developer;Senior;Android;RxJava;3
+Designer;Regular;UI/UX Design;Adobe Photoshop;3
+Designer;Regular;UI/UX Design;Design Thinking;3
+Designer;Regular;UI/UX Design;Figma;4
+Designer;Regular;UI/UX Design;Graphic Design;3
+Designer;Regular;UI/UX Design;Mobile App Design;3
+Designer;Regular;UI/UX Design;Responsive Web Design;3
+Designer;Regular;UI/UX Design;UI Prototyping;4
+Designer;Regular;UI/UX Design;UI/UX Design;4
+Designer;Regular;UI/UX Design;UX Design;4
+Designer;Regular;UI/UX Design;UX Research;3
+Designer;Regular;UI/UX Design;UX/UI;3
+Software Developer;Regular;iOS (Objective-C/Swift);CocoaPods;3
+Software Developer;Regular;iOS (Objective-C/Swift);Figma;3
+Software Developer;Regular;iOS (Objective-C/Swift);Git;3
+Software Developer;Regular;iOS (Objective-C/Swift);IOS;3
+Software Developer;Regular;iOS (Objective-C/Swift);iOS SDK;3
+Software Developer;Regular;iOS (Objective-C/Swift);RxSwift;3
+Software Developer;Regular;iOS (Objective-C/Swift);Swift Programming Language;3
+Software Developer;Regular;iOS (Objective-C/Swift);UiKit;3
+Software Developer;Regular;iOS (Objective-C/Swift);VIPER;3
+Software Developer;Senior;iOS (Objective-C/Swift);AutoLayout;3
+Software Developer;Senior;iOS (Objective-C/Swift);CoreData;3
+Software Developer;Senior;iOS (Objective-C/Swift);Git;4
+Software Developer;Senior;iOS (Objective-C/Swift);IOS;4
+Software Developer;Senior;iOS (Objective-C/Swift);Moya;3
+Software Developer;Senior;iOS (Objective-C/Swift);MVVM;4
+Software Developer;Senior;iOS (Objective-C/Swift);RxSwift;3
+Software Developer;Senior;iOS (Objective-C/Swift);Swift Programming Language;4
+Software Developer;Senior;iOS (Objective-C/Swift);Swiftgen;3
+Software Developer;Senior;iOS (Objective-C/Swift);SwiftLint;3
+Software Developer;Senior;iOS (Objective-C/Swift);UiKit;3
+Software Developer;Senior;iOS (Objective-C/Swift);VIPER;3
+Software/System Architect;Senior;Software/System Architecture;Apache Kafka;3
+Software/System Architect;Senior;Software/System Architecture;Architecture;3
+Software/System Architect;Senior;Software/System Architecture;Architecture;4
+Software/System Architect;Senior;Software/System Architecture;IBM MQ;3
+Software/System Architect;Senior;Software/System Architecture;IBM MQ;4
+Software/System Architect;Senior;Software/System Architecture;Java;4
+Software/System Architect;Senior;Software/System Architecture;Java;5
+Software/System Architect;Senior;Software/System Architecture;Kubernetes;3
+Software/System Architect;Senior;Software/System Architecture;PostgreSQL;3
+Software/System Architect;Senior;Software/System Architecture;PostgreSQL;5
+Software/System Architect;Senior;Software/System Architecture;SQL;5
+Software/System Architect;Senior;Software/System Architecture;Эксперт;5
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);Atlassian Confluence;3
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);Atlassian Jira;3
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);Linux;3
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);PostgreSQL;3
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);Postman;3
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);SQL;4
+SL3 Technical Support Engineer;Regular;Technical Support (SL3);Zabbix;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);Microsoft SQL Server;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SAS 9.4 Platform;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SAS Base;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SAS Management Console;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SAS Management Console;4
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SQL;3
+Software Developer;Senior;ETL (Informatica, Ab Initio etc.);SQL;4
+Team Lead;Regular;QA Manual;Apache Cassandra;3
+Team Lead;Regular;QA Manual;Apache Kafka;3
+Team Lead;Regular;QA Manual;Atlassian Confluence;3
+Team Lead;Regular;QA Manual;Atlassian Jira;3
+Team Lead;Regular;QA Manual;Functional Testing;4
+Team Lead;Regular;QA Manual;Functional Testing;5
+Team Lead;Regular;QA Manual;Integration Testing;3
+Team Lead;Regular;QA Manual;Manual Testing;5
+Team Lead;Regular;QA Manual;Microsoft Windows;3
+Team Lead;Regular;QA Manual;PostgreSQL;3
+Team Lead;Regular;QA Manual;Postman;3
+Team Lead;Regular;QA Manual;SoapUI;3
+Team Lead;Regular;QA Manual;SQL;3
+Team Lead;Regular;QA Manual;SQL;4
+Team Lead;Regular;QA Manual;Swagger;3
+Team Lead;Regular;QA Manual;Test design;5
+Team Lead;Regular;QA Manual;XML;3
+Software Developer;Regular;C#/VB.NET;.NET Core;3
+Software Developer;Regular;C#/VB.NET;C#/.NET;3
+Software Developer;Regular;C#/VB.NET;JavaScript;3
+Software Developer;Regular;C#/VB.NET;Microsoft SQL Server;3
+Software Developer;Regular;C#/VB.NET;Microsoft SQL Server;5
+Software Developer;Regular;C#/VB.NET;SQL;3
+Software Developer;Regular;C#/VB.NET;SQL;4
+Other Delivery Specialist;Regular;Software - Other;Apache Velocity;3
+Other Delivery Specialist;Regular;Software - Other;Git;3
+Other Delivery Specialist;Regular;Software - Other;Git;4
+Other Delivery Specialist;Regular;Software - Other;Git;5
+Other Delivery Specialist;Regular;Software - Other;GitLab;3
+Other Delivery Specialist;Regular;Software - Other;HTML;3
+Other Delivery Specialist;Regular;Software - Other;JSON;3
+Other Delivery Specialist;Regular;Software - Other;Postman;3
+Other Delivery Specialist;Regular;Software - Other;XML;3
+Scrum Master;Senior;Scrum Master;Agile Coaching;3
+Scrum Master;Senior;Scrum Master;Agile Methodology;3
+Scrum Master;Senior;Scrum Master;Atlassian Confluence;3
+Scrum Master;Senior;Scrum Master;Atlassian Jira;3
+Scrum Master;Senior;Scrum Master;Design workshop facilitation;3
+Scrum Master;Senior;Scrum Master;Facilitation;3
+Scrum Master;Senior;Scrum Master;Kanban;3
+Scrum Master;Senior;Scrum Master;Miro;3
+Scrum Master;Senior;Scrum Master;Scaled Agile framework (SAFe);3
+Scrum Master;Senior;Scrum Master;Scaled Agile framework (SAFe);4
+Scrum Master;Senior;Scrum Master;Scrum Master;3
+Scrum Master;Senior;Scrum Master;Scrum Methodology;3
+Scrum Master;Senior;Scrum Master;Team Management;3
+Team Lead;Senior;QA Manual;Apache Kafka;3
+Team Lead;Senior;QA Manual;API testing;3
+Team Lead;Senior;QA Manual;Atlassian BitBucket;3
+Team Lead;Senior;QA Manual;Atlassian Confluence;4
+Team Lead;Senior;QA Manual;Atlassian Jira;4
+Team Lead;Senior;QA Manual;DBeaver;3
+Team Lead;Senior;QA Manual;Elastic Kibana;3
+Team Lead;Senior;QA Manual;Git;3
+Team Lead;Senior;QA Manual;Manual Testing;5
+Team Lead;Senior;QA Manual;PostgreSQL;3
+Team Lead;Senior;QA Manual;Postman;3
+Team Lead;Senior;QA Manual;SoapUI;3
+Team Lead;Senior;QA Manual;SQL;4
+Team Lead;Senior;QA Manual;Swagger;3
+Team Lead;Senior;QA Manual;Team Lead;3
+Team Lead;Senior;QA Manual;Team Lead;4
+Team Lead;Senior;QA Manual;Test Cases;5
+Team Lead;Regular;Java;Apache Kafka;3
+Team Lead;Regular;Java;Docker;3
+Team Lead;Regular;Java;Docker;5
+Team Lead;Regular;Java;Git;3
+Team Lead;Regular;Java;Git;4
+Team Lead;Regular;Java;Git;5
+Team Lead;Regular;Java;GitLab;3
+Team Lead;Regular;Java;Java;5
+Team Lead;Regular;Java;Kubernetes;3
+Team Lead;Regular;Java;Linux;4
+Team Lead;Regular;Java;PostgreSQL;3
+Team Lead;Regular;Java;REST;3
+Team Lead;Regular;Java;REST;4
+Team Lead;Regular;Java;Spring Boot;3
+Team Lead;Regular;Java;SQL;3
+Operations - Specialist;Regular;PMA;Microsoft PowerPoint;3
+Operations - Specialist;Regular;PMA;Microsoft Teams;3
+Operations - Specialist;Regular;PMA;Microsoft Word;3
+Other Delivery Specialist;Senior;Software - Other;JSON;4
+Other Delivery Specialist;Senior;Software - Other;SQL;3
+Other Delivery Specialist;Senior;Software - Other;XML;3
+Other Delivery Specialist;Senior;Software - Other;XML Schema Definition (XSD);3
+Test Engineer;Junior;QA Manual;Google Chrome DevTools;3
+Test Engineer;Junior;QA Manual;Postman;3
+Operations - Specialist;Senior;PMA;Document Control;3
+Operations - Specialist;Senior;PMA;Document Control;4
+Operations - Specialist;Senior;PMA;Microsoft Excel;3
+Program Manager;Regular;Engineering Program Management;Agile Project Management;4
+Program Manager;Regular;Engineering Program Management;Atlassian Confluence;4
+Program Manager;Regular;Engineering Program Management;Atlassian Confluence;5
+Program Manager;Regular;Engineering Program Management;Atlassian Jira;3
+Program Manager;Regular;Engineering Program Management;Atlassian Jira;5
+Program Manager;Regular;Engineering Program Management;Interviewing Candidates;3
+Program Manager;Regular;Engineering Program Management;Interviewing Candidates;5
+Program Manager;Regular;Engineering Program Management;People Management;3
+Program Manager;Regular;Engineering Program Management;Project Management;4
+Program Manager;Regular;Engineering Program Management;Risk Management;4
+Program Manager;Regular;Engineering Program Management;Scrum Methodology;4
+Program Manager;Regular;Engineering Program Management;Scrum Methodology;5
+Program Manager;Regular;Engineering Program Management;SQL;3
+Program Manager;Regular;Engineering Program Management;SQL;4
+Program Manager;Senior;Engineering Program Management;Agile Project Management;3
+Program Manager;Senior;Engineering Program Management;Agile Project Management;5
+Program Manager;Senior;Engineering Program Management;People Management;3
+Program Manager;Senior;Engineering Program Management;People Management;4
+Program Manager;Senior;Engineering Program Management;Program Management;3
+Program Manager;Senior;Engineering Program Management;Program Management;5
+Program Manager;Senior;Engineering Program Management;Project Management;4
+Program Manager;Senior;Engineering Program Management;Project Management;5
+Program Manager;Senior;Engineering Program Management;Project Management Book of Knowledge (PMI PMBoK);3
+Program Manager;Senior;Engineering Program Management;Project Management Book of Knowledge (PMI PMBoK);5
+Program Manager;Senior;Engineering Program Management;Scrum Methodology;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Apache Tomcat;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);API;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Atlassian BitBucket;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Atlassian Jira;4
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Elasticsearch;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Elasticsearch;5
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Microsoft Office;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Microsoft Office;5
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Oracle;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Oracle SQL Developer;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);PostgreSQL;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Postman;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);Postman;4
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);PuTTY;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);SOAP;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);SOAP;4
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);SoapUI;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);SoapUI;4
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);SQL;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);WinSCP;3
+SL3 Technical Support Engineer;Senior;Technical Support (SL3);XML;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Apache Airflow;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);ETL;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Git;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Git;5
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Hadoop;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Oracle;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);PostgreSQL;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Python3;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Relational database design and administration: MS SQL Server, Oracle, MySQL;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);SAS 9.4 Platform;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);SAS Base;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);Scala;3
+Software Developer;Regular;ETL (Informatica, Ab Initio etc.);SQL;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Architectural Design;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Architectural Design;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Atlassian Confluence;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Atlassian Confluence;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Atlassian Jira;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Atlassian Jira;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;Microsoft Visio;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;SOAP;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;SOAP;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;SoapUI;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;SoapUI;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;System analysis;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;System analysis;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;System Architecture;3
+Solution/Integration Architect;Senior;Solution/Integration Architecture;System Architecture;4
+Solution/Integration Architect;Senior;Solution/Integration Architecture;TeamCity;3
+Test Engineer;Lead;QA Automation;Agile Methodology;3
+Test Engineer;Lead;QA Automation;Agile Methodology;4
+Test Engineer;Lead;QA Automation;Allure;3
+Test Engineer;Lead;QA Automation;Allure;4
+Test Engineer;Lead;QA Automation;Apache Kafka;3
+Test Engineer;Lead;QA Automation;Atlassian BitBucket;3
+Test Engineer;Lead;QA Automation;Atlassian BitBucket;4
+Test Engineer;Lead;QA Automation;Atlassian Confluence;3
+Test Engineer;Lead;QA Automation;Atlassian Jira;3
+Test Engineer;Lead;QA Automation;Docker;3
+Test Engineer;Lead;QA Automation;Docker;4
+Test Engineer;Lead;QA Automation;Functional Testing;3
+Test Engineer;Lead;QA Automation;Functional Testing;5
+Test Engineer;Lead;QA Automation;Git;3
+Test Engineer;Lead;QA Automation;Integration Testing;3
+Test Engineer;Lead;QA Automation;Integration Testing;4
+Test Engineer;Lead;QA Automation;Jenkins;3
+Test Engineer;Lead;QA Automation;Jenkins;4
+Test Engineer;Lead;QA Automation;JUnit 5;3
+Test Engineer;Lead;QA Automation;Linux;3
+Test Engineer;Lead;QA Automation;Linux;4
+Test Engineer;Lead;QA Automation;Manual Testing;5
+Test Engineer;Lead;QA Automation;Microsoft SQL Server;3
+Test Engineer;Lead;QA Automation;PostgreSQL;3
+Test Engineer;Lead;QA Automation;Python;4
+Test Engineer;Lead;QA Automation;RabbitMQ;3
+Test Engineer;Lead;QA Automation;Regression Testing;3
+Test Engineer;Lead;QA Automation;Selenium;4
+Test Engineer;Lead;QA Automation;Selenium WebDriver;3
+Test Engineer;Lead;QA Automation;Selenium WebDriver;4
+Test Engineer;Lead;QA Automation;Spring Boot;3
+Test Engineer;Lead;QA Automation;SQL;3
+Test Engineer;Lead;QA Automation;TeamCity;3
+Test Engineer;Lead;QA Automation;Test design;4
+Account Manager;Regular;Account Management;Microsoft Word;3
+Account Manager;Regular;Account Management;Microsoft Word;5
+Functional/System Analyst;Junior;Functional/System Analysis;DBeaver;3
+Functional/System Analyst;Junior;Functional/System Analysis;Figma;3
+Functional/System Analyst;Junior;Functional/System Analysis;Groovy;3
+Functional/System Analyst;Junior;Functional/System Analysis;JSON Schema;3
+Functional/System Analyst;Junior;Functional/System Analysis;Manual Testing;3
+Functional/System Analyst;Junior;Functional/System Analysis;Postman;3
+Functional/System Analyst;Junior;Functional/System Analysis;XML Schema Definition (XSD);3
+Platform Engineer;Senior;DevOps;Atlassian BitBucket;3
+Platform Engineer;Senior;DevOps;Atlassian Confluence;3
+Platform Engineer;Senior;DevOps;Atlassian Confluence;4
+Platform Engineer;Senior;DevOps;Atlassian Jira;3
+Platform Engineer;Senior;DevOps;Atlassian Jira;4
+Platform Engineer;Senior;DevOps;CI/CD;3
+Platform Engineer;Senior;DevOps;CI/CD;4
+Platform Engineer;Senior;DevOps;Consul;3
+Platform Engineer;Senior;DevOps;Docker;3
+Platform Engineer;Senior;DevOps;Docker;4
+Platform Engineer;Senior;DevOps;Gitlab CI/CD;3
+Platform Engineer;Senior;DevOps;Gradle;3
+Platform Engineer;Senior;DevOps;Grafana;3
+Platform Engineer;Senior;DevOps;HashiCorp Vault;3
+Platform Engineer;Senior;DevOps;Helm;3
+Platform Engineer;Senior;DevOps;Java;3
+Platform Engineer;Senior;DevOps;Jenkins;3
+Platform Engineer;Senior;DevOps;Jenkins;4
+Platform Engineer;Senior;DevOps;Kubernetes;3
+Platform Engineer;Senior;DevOps;Linux;3
+Platform Engineer;Senior;DevOps;Linux;4
+Platform Engineer;Senior;DevOps;Nexus Repository;3
+Platform Engineer;Senior;DevOps;Nginx;3
+Platform Engineer;Senior;DevOps;NPM;3
+Platform Engineer;Senior;DevOps;OpenShift;3
+Platform Engineer;Senior;DevOps;PostgreSQL;3
+Platform Engineer;Senior;DevOps;Prometheus;3
+Platform Engineer;Senior;DevOps;React;3
+Platform Engineer;Senior;DevOps;TeamCity;3
+Platform Engineer;Senior;DevOps;Veracode;3
+Software Developer;Junior;iOS (Objective-C/Swift);iOS SDK;3
+Software Developer;Junior;iOS (Objective-C/Swift);Swift Programming Language;3
+Software Developer;Junior;iOS (Objective-C/Swift);UiKit;3
+Software Developer;Junior;iOS (Objective-C/Swift);Xcode;3
+Software Developer;Regular;SQL (PL/SQL - Oracle);Atlassian Jira;3
+Software Developer;Regular;SQL (PL/SQL - Oracle);Git;3
+Software Developer;Regular;SQL (PL/SQL - Oracle);PL/PLUS;3
+Software Developer;Regular;SQL (PL/SQL - Oracle);PL/SQL;3
+Software Developer;Regular;SQL (PL/SQL - Oracle);PL/SQL;4
+Technical Writer;Senior;Technical Writing;Atlassian BitBucket;3
+Technical Writer;Senior;Technical Writing;Atlassian Confluence;3
+Technical Writer;Senior;Technical Writing;Atlassian Confluence;5
+Technical Writer;Senior;Technical Writing;Atlassian Jira;3
+Technical Writer;Senior;Technical Writing;Git;4
+Technical Writer;Senior;Technical Writing;GitHub;3
+Technical Writer;Senior;Technical Writing;GitHub;4
+Technical Writer;Senior;Technical Writing;Markdown;4
+Technical Writer;Senior;Technical Writing;Markdown;5
+Technical Writer;Senior;Technical Writing;Microsoft Excel;4
+Technical Writer;Senior;Technical Writing;Microsoft Office;3
+Technical Writer;Senior;Technical Writing;Microsoft Office;5
+Technical Writer;Senior;Technical Writing;Microsoft Visio;4
+Technical Writer;Senior;Technical Writing;Microsoft Visio;5
+Technical Writer;Senior;Technical Writing;Microsoft Windows;3
+Technical Writer;Senior;Technical Writing;Microsoft Windows;5
+Technical Writer;Senior;Technical Writing;Microsoft Word;5
+Technical Writer;Senior;Technical Writing;Office Productivity – MS Word, MS Excel, MS PowerPoint;3
+Technical Writer;Senior;Technical Writing;Office Productivity – MS Word, MS Excel, MS PowerPoint;4
+Technical Writer;Senior;Technical Writing;Office Productivity – MS Word, MS Excel, MS PowerPoint;5
+Technical Writer;Senior;Technical Writing;Pandoc;3
+Technical Writer;Senior;Technical Writing;Technical Documentation;3
+Technical Writer;Senior;Technical Writing;Technical Documentation;5
+Technical Writer;Senior;Technical Writing;Technical Writing;3

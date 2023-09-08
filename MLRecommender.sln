@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLR.Trainer", "MLR.Trainer\MLR.Trainer.csproj", "{40809F21-F053-4D99-BE72-199378A40500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLR.Domain", "MLR.Domain\MLR.Domain.csproj", "{0BFDE7EE-3682-4071-A348-91AD63825214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLR.DataPreparer", "MLR.DataPreparer\MLR.DataPreparer.csproj", "{7C3BB4C6-1B84-4C4F-BC9C-FE950D3467C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40809F21-F053-4D99-BE72-199378A40500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40809F21-F053-4D99-BE72-199378A40500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40809F21-F053-4D99-BE72-199378A40500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40809F21-F053-4D99-BE72-199378A40500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFDE7EE-3682-4071-A348-91AD63825214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFDE7EE-3682-4071-A348-91AD63825214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFDE7EE-3682-4071-A348-91AD63825214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFDE7EE-3682-4071-A348-91AD63825214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3BB4C6-1B84-4C4F-BC9C-FE950D3467C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3BB4C6-1B84-4C4F-BC9C-FE950D3467C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3BB4C6-1B84-4C4F-BC9C-FE950D3467C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3BB4C6-1B84-4C4F-BC9C-FE950D3467C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

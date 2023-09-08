@@ -1,0 +1,282 @@
+Id;Name
+0;Atlassian Confluence:Intermediate
+1;Atlassian Jira:Intermediate
+2;Business Process Modeling Notation (BPMN):Intermediate
+3;REST API:Intermediate
+4;SQL:Intermediate
+5;UML:Intermediate
+6;Apache Kafka:Intermediate
+7;Apache Maven:Intermediate
+8;Docker:Intermediate
+9;Git:Intermediate
+10;Java:Advanced
+11;Java 8 - 17:Intermediate
+12;PostgreSQL:Intermediate
+13;Spring Boot:Intermediate
+14;Spring Data:Intermediate
+15;Spring Framework:Intermediate
+16;Manual Testing:Advanced
+17;Postman:Intermediate
+18;Hibernate:Intermediate
+19;Java:Intermediate
+20;JUnit:Intermediate
+21;Elastic Kibana:Intermediate
+22;Functional Testing:Expert
+23;Integration Testing:Intermediate
+24;Regression Testing:Advanced
+25;Test Cases:Advanced
+26;CSS3:Advanced
+27;JavaScript:Expert
+28;Jest:Intermediate
+29;React:Advanced
+30;Redux:Intermediate
+31;TypeScript:Intermediate
+32;Webpack:Intermediate
+33;.NET Core:Intermediate
+34;C#/.NET:Intermediate
+35;Entity Framework (EF Core):Intermediate
+36;Entity Framework (EF Core):Advanced
+37;Git:Advanced
+38;Microsoft ASP.NET:Advanced
+39;Microsoft SQL Server:Intermediate
+40;SQL:Advanced
+41;JavaScript:Advanced
+42;Atlassian Confluence:Advanced
+43;Business Process Modeling Notation (BPMN):Advanced
+44;JSON:Intermediate
+45;Requirements Analysis:Advanced
+46;UML:Advanced
+47;Apache Maven:Advanced
+48;GitLab:Intermediate
+49;Java:Expert
+50;JavaScript:Intermediate
+51;JUnit:Advanced
+52;REST:Intermediate
+53;REST:Expert
+54;Spring Boot:Advanced
+55;Spring Framework:Advanced
+56;Selenium:Intermediate
+57;Project Management:Intermediate
+58;Atlassian Jira:Advanced
+59;Manual Testing:Expert
+60;Regression Testing:Expert
+61;Test design:Advanced
+62;Ansible:Advanced
+63;Grafana:Intermediate
+64;Jenkins:Intermediate
+65;Jenkins:Advanced
+66;Kubernetes:Intermediate
+67;Kubernetes:Advanced
+68;Linux:Advanced
+69;Nginx:Intermediate
+70;Prometheus:Intermediate
+71;Angular:Advanced
+72;CSS3:Expert
+73;HTML:Expert
+74;HTML5:Expert
+75;Node.js:Intermediate
+76;Redux:Expert
+77;TypeScript:Advanced
+78;Webpack:Advanced
+79;Microsoft Transact-SQL:Advanced
+80;Active Directory:Intermediate
+81;Helpdesk:Intermediate
+82;Service Desk:Intermediate
+83;Zabbix:Intermediate
+84;JUnit:Expert
+85;OpenShift:Intermediate
+86;Oracle:Intermediate
+87;RabbitMQ:Intermediate
+88;Ansible:Intermediate
+89;Linux:Intermediate
+90;Adobe Illustrator:Intermediate
+91;Adobe Illustrator:Advanced
+92;Adobe Photoshop:Intermediate
+93;Adobe Photoshop:Advanced
+94;Adobe Photoshop:Expert
+95;Figma:Advanced
+96;Figma:Expert
+97;UI/UX Design:Intermediate
+98;UX Design:Intermediate
+99;UX Design:Advanced
+100;UX Design:Expert
+101;UX Research:Intermediate
+102;UX/UI:Intermediate
+103;Android:Intermediate
+104;Coroutines:Intermediate
+105;Dagger 2:Intermediate
+106;Kotlin:Advanced
+107;MVVM:Intermediate
+108;Retrofit:Intermediate
+109;Retrofit:Expert
+110;Microsoft Transact-SQL:Intermediate
+111;Oracle:Advanced
+112;PL/PLUS:Intermediate
+113;PL/SQL:Intermediate
+114;Microservices:Intermediate
+115;Microservices:Advanced
+116;Эксперт:Expert
+117;Android:Advanced
+118;Kotlin:Intermediate
+119;RxJava:Intermediate
+120;Design Thinking:Intermediate
+121;Graphic Design:Intermediate
+122;Mobile App Design:Intermediate
+123;Responsive Web Design:Intermediate
+124;UI Prototyping:Advanced
+125;UI/UX Design:Advanced
+126;CocoaPods:Intermediate
+127;Figma:Intermediate
+128;IOS:Intermediate
+129;iOS SDK:Intermediate
+130;RxSwift:Intermediate
+131;Swift Programming Language:Intermediate
+132;UiKit:Intermediate
+133;VIPER:Intermediate
+134;AutoLayout:Intermediate
+135;CoreData:Intermediate
+136;IOS:Advanced
+137;Moya:Intermediate
+138;MVVM:Advanced
+139;Swift Programming Language:Advanced
+140;Swiftgen:Intermediate
+141;SwiftLint:Intermediate
+142;Architecture:Intermediate
+143;Architecture:Advanced
+144;IBM MQ:Intermediate
+145;IBM MQ:Advanced
+146;PostgreSQL:Expert
+147;SQL:Expert
+148;SAS 9.4 Platform:Intermediate
+149;SAS Base:Intermediate
+150;SAS Management Console:Intermediate
+151;SAS Management Console:Advanced
+152;Apache Cassandra:Intermediate
+153;Functional Testing:Advanced
+154;Microsoft Windows:Intermediate
+155;SoapUI:Intermediate
+156;Swagger:Intermediate
+157;Test design:Expert
+158;XML:Intermediate
+159;Microsoft SQL Server:Expert
+160;Apache Velocity:Intermediate
+161;Git:Expert
+162;HTML:Intermediate
+163;Agile Coaching:Intermediate
+164;Agile Methodology:Intermediate
+165;Design workshop facilitation:Intermediate
+166;Facilitation:Intermediate
+167;Kanban:Intermediate
+168;Miro:Intermediate
+169;Scaled Agile framework (SAFe):Intermediate
+170;Scaled Agile framework (SAFe):Advanced
+171;Scrum Master:Intermediate
+172;Scrum Methodology:Intermediate
+173;Team Management:Intermediate
+174;API testing:Intermediate
+175;Atlassian BitBucket:Intermediate
+176;DBeaver:Intermediate
+177;Team Lead:Intermediate
+178;Team Lead:Advanced
+179;Test Cases:Expert
+180;Docker:Expert
+181;REST:Advanced
+182;Microsoft PowerPoint:Intermediate
+183;Microsoft Teams:Intermediate
+184;Microsoft Word:Intermediate
+185;JSON:Advanced
+186;XML Schema Definition (XSD):Intermediate
+187;Google Chrome DevTools:Intermediate
+188;Document Control:Intermediate
+189;Document Control:Advanced
+190;Microsoft Excel:Intermediate
+191;Agile Project Management:Advanced
+192;Atlassian Confluence:Expert
+193;Atlassian Jira:Expert
+194;Interviewing Candidates:Intermediate
+195;Interviewing Candidates:Expert
+196;People Management:Intermediate
+197;Project Management:Advanced
+198;Risk Management:Advanced
+199;Scrum Methodology:Advanced
+200;Scrum Methodology:Expert
+201;Agile Project Management:Intermediate
+202;Agile Project Management:Expert
+203;People Management:Advanced
+204;Program Management:Intermediate
+205;Program Management:Expert
+206;Project Management:Expert
+207;Project Management Book of Knowledge (PMI PMBoK):Intermediate
+208;Project Management Book of Knowledge (PMI PMBoK):Expert
+209;Apache Tomcat:Intermediate
+210;API:Intermediate
+211;Elasticsearch:Intermediate
+212;Elasticsearch:Expert
+213;Microsoft Office:Intermediate
+214;Microsoft Office:Expert
+215;Oracle SQL Developer:Intermediate
+216;Postman:Advanced
+217;PuTTY:Intermediate
+218;SOAP:Intermediate
+219;SOAP:Advanced
+220;SoapUI:Advanced
+221;WinSCP:Intermediate
+222;Apache Airflow:Intermediate
+223;ETL:Intermediate
+224;Hadoop:Intermediate
+225;Python3:Intermediate
+226;Relational database design and administration: MS SQL Server, Oracle, MySQL:Intermediate
+227;Scala:Intermediate
+228;Architectural Design:Intermediate
+229;Architectural Design:Advanced
+230;Microsoft Visio:Intermediate
+231;System analysis:Intermediate
+232;System analysis:Advanced
+233;System Architecture:Intermediate
+234;System Architecture:Advanced
+235;TeamCity:Intermediate
+236;Agile Methodology:Advanced
+237;Allure:Intermediate
+238;Allure:Advanced
+239;Atlassian BitBucket:Advanced
+240;Docker:Advanced
+241;Functional Testing:Intermediate
+242;Integration Testing:Advanced
+243;JUnit 5:Intermediate
+244;Python:Advanced
+245;Regression Testing:Intermediate
+246;Selenium:Advanced
+247;Selenium WebDriver:Intermediate
+248;Selenium WebDriver:Advanced
+249;Microsoft Word:Expert
+250;Groovy:Intermediate
+251;JSON Schema:Intermediate
+252;Manual Testing:Intermediate
+253;CI/CD:Intermediate
+254;CI/CD:Advanced
+255;Consul:Intermediate
+256;Gitlab CI/CD:Intermediate
+257;Gradle:Intermediate
+258;HashiCorp Vault:Intermediate
+259;Helm:Intermediate
+260;Nexus Repository:Intermediate
+261;NPM:Intermediate
+262;React:Intermediate
+263;Veracode:Intermediate
+264;Xcode:Intermediate
+265;PL/SQL:Advanced
+266;GitHub:Intermediate
+267;GitHub:Advanced
+268;Markdown:Advanced
+269;Markdown:Expert
+270;Microsoft Excel:Advanced
+271;Microsoft Visio:Advanced
+272;Microsoft Visio:Expert
+273;Microsoft Windows:Expert
+274;Office Productivity – MS Word, MS Excel, MS PowerPoint:Intermediate
+275;Office Productivity – MS Word, MS Excel, MS PowerPoint:Advanced
+276;Office Productivity – MS Word, MS Excel, MS PowerPoint:Expert
+277;Pandoc:Intermediate
+278;Technical Documentation:Intermediate
+279;Technical Documentation:Expert
+280;Technical Writing:Intermediate
